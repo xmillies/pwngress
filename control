@@ -1,0 +1,9 @@
+Package: com.synecx.pwngress
+Name: pwngress
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Bypass Ingress jailbreak detection
+Maintainer: Erwin <synecx@live.com>
+Author: Erwin <synecx@live.com>
+Section: Tweaks
